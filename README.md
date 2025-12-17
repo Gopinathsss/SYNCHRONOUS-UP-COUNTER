@@ -58,10 +58,23 @@ endmodule
 <img width="1284" height="544" alt="image" src="https://github.com/user-attachments/assets/e2e12a8d-13ef-4d0a-8fab-b12b65bff4af" />
 
 **TIMING DIAGRAM FOR IP COUNTER**
+
+
+
 <img width="1363" height="449" alt="image" src="https://github.com/user-attachments/assets/ba15dc84-bb59-4b3f-b190-1a630c244eb3" />
 
+
+
 **TRUTH TABLE**
+
+
+
 <img width="395" height="440" alt="image" src="https://github.com/user-attachments/assets/f29850fc-eeaf-4542-9855-a8c9e912294d" />
 
+
+
 **RESULTS**
+
+
+
 The synchronous up counter successfully increments its 4‑bit output on each rising clock edge. When reset is applied, the counter clears to zero and resumes counting once reset is released.
